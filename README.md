@@ -13,7 +13,7 @@
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/alinpierojavier)](https://github.com/alinpierojavier) 
 [![Angular](https://img.shields.io/badge/-Ángular-red?style=flat&logo=ángular&link=https://github.com/alinpierojavier)](https://github.com/alinpierojavier)
 
-[![C#](https://img.shields.io/badge/-C#-gray?style=flat&logo=c#&link=https://github.com/alinpierojavier)](https://github.com/alinpierojavier)
+[![C sharp C#](https://img.shields.io/badge/-C#-black?style=flat&logo=c#&link=https://github.com/alinpierojavier)](https://github.com/alinpierojavier)
 [![Net Core](https://img.shields.io/badge/-NetCore-gray?style=flat&logo=netcore&link=https://github.com/alinpierojavier)](https://github.com/alinpierojavier)
 [![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://github.com/alinpierojavier)](https://github.com/alinpierojavier)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/alinpierojavier)](https://github.com/alinpierojavier)
