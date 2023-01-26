@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![PROGRAMADOR BACK (1)](https://user-images.githubusercontent.com/32024150/214771810-1ebc5f5f-2e29-418e-9cba-1c81849e1042.png)
 <br>
-### Hello!, It's Alin Javier Developer web from Perú.
+### Hello!. It's Alin Javier-Developer web from Perú.
 <br>
 ### 👨‍💻 Languages and Tools
 
