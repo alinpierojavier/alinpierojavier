@@ -14,7 +14,6 @@
 [![Angular](https://img.shields.io/badge/-Ángular-red?style=flat&logo=ángular&link=https://github.com/alinpierojavier)](https://github.com/alinpierojavier)
 
 [![C sharp C#](https://img.shields.io/badge/-C#-black?style=flat&logo=c#&link=https://github.com/alinpierojavier)](https://github.com/alinpierojavier)
-<img src="https://github.com/alinpierojavier/master/resources/dev/csharp.svg" height="35px" style="vertical-align:top margin:6px 4px" />
 [![Net Core](https://img.shields.io/badge/-NetCore-gray?style=flat&logo=netcore&link=https://github.com/alinpierojavier)](https://github.com/alinpierojavier)
 [![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://github.com/alinpierojavier)](https://github.com/alinpierojavier)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/alinpierojavier)](https://github.com/alinpierojavier)
